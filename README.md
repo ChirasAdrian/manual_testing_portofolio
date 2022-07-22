@@ -17,6 +17,5 @@ Be able to edit and update informations about candidates who applied to a certai
 Be able to select and constantly update the status of a candidate, in his hiring process, such as Reject, Schedule Interview, Mark Interview Passed, Mark Interview Failed, Offer Job, Decline Offer and Hire;
 
 # 1 Testing Section
-  
 # <h2>1.1 Test Planning<h2/>
   
