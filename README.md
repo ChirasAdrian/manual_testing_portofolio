@@ -12,5 +12,6 @@ Tools used: Jira, Zephyr Squad, Postman, MySQL;
 # Functional specifications
 Search for candidates based on multiple filters such as Job title, Vacancy, Hiring Manager, Candidate Name, Keywords, Status, Method of Application and Date of Applicantion;
 Be able to edit and update informations about candidates who applied to a certain vacancy
+  
 Be able to select and constantly update the status of a candidate, in his hiring process, such as Reject, Schedule Interview, Mark Interview Passed, Mark Interview Failed, Offer Job, Decline Offer and Hire;
 
