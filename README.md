@@ -27,7 +27,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 Manual software tester - Chiras Adrian
 
 <strong>1.1.2 Entry criteria defined<strong/>  
-asd
+
 <strong>1.1.3 Exit criteria defined<strong/>    
 
 <strong>1.1.4 Test scope<strong/>
