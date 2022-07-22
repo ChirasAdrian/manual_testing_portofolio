@@ -30,4 +30,10 @@ Manual software tester - Chiras Adrian
 
 <strong>1.1.3 Exit criteria defined<strong/>  
 
+<strong>1.1.4 Test scope<strong/>
+
+<strong>1.1.5 Risks detected<strong/>
+
+<strong>1.1.6 Evaluating entry Criteria<strong>
+
 
