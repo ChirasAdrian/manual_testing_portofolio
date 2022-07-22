@@ -1,1 +1,1 @@
-# manual_testing_portofolio
+# Final Project for ITF Manual Testing Course
