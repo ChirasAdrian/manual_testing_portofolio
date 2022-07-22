@@ -18,5 +18,5 @@ Be able to select and constantly update the status of a candidate, in his hiring
 
 # 1 Testing Section
   
-# <h3>1.1 Test Planning<h3/>
+# <h2>1.1 Test Planning<h2/>
   
