@@ -18,4 +18,15 @@ Be able to select and constantly update the status of a candidate, in his hiring
 
 # 1 Testing Section
 # <h2>1.1 Test Planning<h2/>
-  
+The Test Plan is designed to describe all details of testing for the Recruitment module from the OrangeHR< application.
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule to complete testing, and the risks associated with the plan.                                                                                                     
+
+<strong>1.1.1 Roles assigned to the project and persons allocated<strong/>                   
+
+Manual software tester - Chiras Adrian
+
+<strong>1.1.2 Entry criteria defined<strong/>
+
+<strong>1.1.3 Exit criteria defined<strong/>  
+
+
