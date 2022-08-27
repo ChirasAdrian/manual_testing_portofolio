@@ -72,7 +72,7 @@ As a user I want to be able to schedule an interview with a candidate
 As a user I want to be able to modify the full name of a candidate
 
 
-The test cases with steps can be viewed here: [file:///C:/Users/chira/Downloads/Zephyr%20Test%20Steps%20(Jira).pdf]()
+The test cases with steps can be viewed here: [test_cases.pdf]()
 
 ## 1.5 Test Implementation
 
