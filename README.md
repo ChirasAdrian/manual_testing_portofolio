@@ -103,5 +103,3 @@ The following elements are needed to be ready before the test execution phase be
 * Test execution chart was generated, the final report shows.... -> describe the final report
 
 -> enter here test execution report/chart
-
-# 2 SQL section
