@@ -6,25 +6,24 @@ Application under test: *[OrangeHRM](https://opensource-demo.orangehrmlive.com/w
 
 Documentation: [OrangeHRM documentation](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf)
 
-**The final project will be split into 2 sections: [Testing section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/README.md#2-sql-section).**
-
-Tools used:
+Tools used: Jira
 
 # Functional specifications
 
--> enter here the functional specifications created in JIRA
+-> In Jira I have created multiple test cases to determine de funtionality of the "Recruitment" tab, the "Candidates" subtab
 
 
 # 1 Testing section
 
 ## 1.1 Test Planning
 
-The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application. 
+The Test Plan is designed to describe all details of testing for the "Recruitment - Candidates" module from the OrangeHRM application. 
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
 #### 1.1.1 Roles assigned to the project and persons allocated
 
+Manual software tester: Chiras Adrian
 
 #### 1.1.2 Entry criteria defined
 
@@ -33,13 +32,12 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.4 Test scope
 
-* __Tests in scope:__ 
-* __Tests not in scope:__ 
+* __Tests in scope:__ The functionaly of the "Edit" button
 
 #### 1.1.5 Risks detected
 
-* Project risks: 
-* Product risks: 
+* Project risks: Probleme tehnice - probleme cu instrumentele de testare
+* Product risks: Produsul nu indeplineste cerintele de business
 
 #### 1.1.6 Evaluating entry criteria
 
@@ -51,8 +49,9 @@ It will be done by generating periodic reports that reflect the current status o
 
 ## 1.3 Test Analysis
 
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
- * Enter test conditions here
+The testing process will be executed based on the above requirements for the Candidates module. The following test conditions were found:
+ * As a user I want to be able to edit the informations about a candidate
+ * As a user I want to be able to update the status of the hiring process of a candidate
 
 ## 1.4 Test Design
 
@@ -60,10 +59,20 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 are:
 
 **Test cases:**
--> enter here test cases or at least the titles
+-> 
+As a user I want to be able to mark an interview as passed
+As a user I want to be able to mark an interview as failed
+As a user I want to be able to reject a candidate
+As a user I want to be able to cancel the changes I made to a candidate's profile
+As a user I want to be able to select the "Status" of a candidate
+As a user I want to be able to delete the CV from a candidate's profile
+Verify if the "Full name" fields can be left empty.
+As a user I want to be able to replace the current CV from a candidate's profile
+As a user I want to be able to schedule an interview with a candidate
+As a user I want to be able to modify the full name of a candidate
 
 
-The test cases with steps can be viewed here: [test_cases.pdf]()
+The test cases with steps can be viewed here: [test_cases.pdf](file:///C:/Users/chira/Downloads/Zephyr%20Test%20Steps%20(Jira).pdf)
 
 ## 1.5 Test Implementation
 
