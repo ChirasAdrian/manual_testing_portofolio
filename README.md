@@ -93,9 +93,11 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf]()
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
-    *  enter here bug titles
+* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf](https://github.com/ChirasAdrian/manual_testing_portofolio/blob/main/Zephyr%20Test%20Executions%20%2B%20Results%20(Jira)%20(1).pdf)
+* Bugs have been created based on the failed tests. 
+    *  No cancel button for the changes made in Candidates subtab
+    *  Can't select another status for a candidate other than "Rejected"
+    *  While rejecting a candidate, the button is called "Save" instead of "Reject"
 
 
 ## 1.7 Test Completion
