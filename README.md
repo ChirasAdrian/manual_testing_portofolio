@@ -87,7 +87,9 @@ The test cases with steps can be viewed here: [test_cases.pdf](https://github.co
 
 The following elements are needed to be ready before the test execution phase begins:
 
-* enter here what needs to be ready for the test execution to begin
+* Test prioretisation
+* Grouping the tests based on their objectives
+* The business documentation is ready
 
 ## 1.6 Test Execution
 
