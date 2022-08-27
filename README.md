@@ -61,14 +61,23 @@ are:
 **Test cases:**
 -> 
 As a user I want to be able to mark an interview as passed
+
 As a user I want to be able to mark an interview as failed
+
 As a user I want to be able to reject a candidate
+
 As a user I want to be able to cancel the changes I made to a candidate's profile
+
 As a user I want to be able to select the "Status" of a candidate
+
 As a user I want to be able to delete the CV from a candidate's profile
+
 Verify if the "Full name" fields can be left empty.
+
 As a user I want to be able to replace the current CV from a candidate's profile
+
 As a user I want to be able to schedule an interview with a candidate
+
 As a user I want to be able to modify the full name of a candidate
 
 
