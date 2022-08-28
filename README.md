@@ -36,8 +36,8 @@ Manual software tester: Chiras Adrian
 
 #### 1.1.5 Risks detected
 
-* Project risks: Probleme tehnice - probleme cu instrumentele de testare
-* Product risks: Produsul nu indeplineste cerintele de business
+* Project risks: Tehnical problems - Problems with the testing tools
+* Product risks: The product does not meet the business criteria
 
 #### 1.1.6 Evaluating entry criteria
 
