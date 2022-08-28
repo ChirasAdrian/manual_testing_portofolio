@@ -106,4 +106,4 @@ The following elements are needed to be ready before the test execution phase be
 * The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/ChirasAdrian/manual_testing_portofolio/blob/main/Traceability%20Report%20(Direct%20Only)%20(Jira).pdf)
 * Test execution chart was generated, the final report shows.... -> That 3 tests out of 10 have failed
 
--> enter here test execution report/chart
+-> [Test execution report](https://github.com/ChirasAdrian/manual_testing_portofolio/blob/main/Execution%20Report.pdf)
